@@ -76,7 +76,7 @@ Para o formulário de contato funcionar corretamente, você precisa:
 
 [**Bruno Correia**](https://www.linkedin.com/in/bruno-c%C3%A9sar-correia-a0bab5186/)  
 Frontend Developer | ReactJS | Web Dev  
-🔗 GitHub: [github.com/brunocorreia-dev](https://github.com/Givemechandon)
+🔗 GitHub: [github.com/Givemechandon](https://github.com/Givemechandon)
 
 ---
 
