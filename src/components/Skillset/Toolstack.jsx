@@ -2,11 +2,12 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
   SiVisualstudiocode,
-  SiPostman,
-  SiHeroku,
+  SiWordpress,
   SiVercel,
-  SiNetlify
+  SiNetlify,
 } from "react-icons/si";
+
+import { DiGithubBadge } from "react-icons/di";
 
 const Toolstack = () => {
   return (
@@ -15,7 +16,7 @@ const Toolstack = () => {
         <SiVisualstudiocode />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPostman />
+        <DiGithubBadge />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVercel />
@@ -24,10 +25,10 @@ const Toolstack = () => {
         <SiNetlify />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiHeroku />
+        <SiWordpress />
       </Col>
     </Row>
   );
-}
+};
 
 export default Toolstack;
