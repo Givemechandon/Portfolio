@@ -2,7 +2,6 @@ import React from 'react'
 import { Container, Row, Col } from "react-bootstrap";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -22,7 +21,7 @@ const Social = () => {
                 <ul className="contact-social-links">
                   <li className="contact-icons">
                     <a
-                      href="https://github.com/19sajib"
+                      href="https://github.com/Givemechandon"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-color  contact-social-icons"
@@ -32,17 +31,7 @@ const Social = () => {
                   </li>
                   <li className="contact-icons">
                     <a
-                      href="https://twitter.com/19sajib"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="icon-color  contact-social-icons"
-                    >
-                      <AiOutlineTwitter />
-                    </a>
-                  </li>
-                  <li className="contact-icons">
-                    <a
-                      href="https://www.linkedin.com/in/19sajib/"
+                      href="https://www.linkedin.com/bruno-malachias-correia-0b1a4b1b2/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-color  contact-social-icons"
@@ -52,7 +41,7 @@ const Social = () => {
                   </li>
                   <li className="contact-icons">
                     <a
-                      href="https://www.instagram.com/19sajib"
+                      href="https://www.instagram.com/brunuz_/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-color contact-social-icons"
