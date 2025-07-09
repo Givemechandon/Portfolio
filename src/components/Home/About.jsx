@@ -95,7 +95,7 @@ const About = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/brunuz._/"
+                  href="https://www.instagram.com/brunuz_/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
